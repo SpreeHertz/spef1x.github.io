@@ -9,5 +9,5 @@ Spef's website.
 - `src/styles` - Contains the CSS for the website
 - `src/pages` - Contains other pages necessary for the website
 - `CNAME` - Domain name config
-- `img` - Elements/assets used for the website
+- `src/img` - Elements/assets used for the website
 
